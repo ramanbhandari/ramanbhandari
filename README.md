@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramanbhandari
-- 👀 I’m interested in everything related to computer science
-- 🌱 I’m currently in my third year computer science honours at University of Manitoba
+- - 🌱 I’m currently in my third year computer science honours at University of Manitoba
+- 👀 Upcoming Software developer intern at Priceline
 
 <!---
 ramanbhandari/ramanbhandari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
