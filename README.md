@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ramanbhandari
-- 🌱 I’m currently in my third year computer science honours at University of Manitoba
+- 🌱 I’m currently in my fourth year computer science honours at University of Manitoba
 - 👀 Upcoming Software developer intern at Priceline
 
 <!---
